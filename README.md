@@ -20,11 +20,11 @@ A simple web application for managing product records, allowing users to Create,
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/hanazaxk/CRUD-App
     ```
 2. Open the project directory:
     ```bash
-    cd your-repo-name
+    cd CRUD-App
     ```
 3. Open `index.html` in your preferred browser.
 
