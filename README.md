@@ -1,7 +1,3 @@
-Here’s a sample README file for your CRUD project:
-
----
-
 # CRUD Application
 
 A simple web application for managing product records, allowing users to Create, Read, Update, and Delete (CRUD) product information. This application uses HTML, CSS, and JavaScript to provide an interactive user experience with a clean, responsive layout.
